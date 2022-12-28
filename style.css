@@ -86,7 +86,7 @@ ol {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 8.5rem 2rem 4.25rem;
+  padding: 8.25rem 2rem 4.5rem;
 }
 @media (max-width: 85em) {
   .counter {
@@ -106,8 +106,8 @@ ol {
   color: var(--clr-title);
   font-size: clamp(1rem, 0.89rem + 0.45vw, 1.3rem);
   letter-spacing: 0.5rem;
-  -webkit-margin-after: clamp(3rem, 2.3rem + 3vw, 5rem);
-          margin-block-end: clamp(3rem, 2.3rem + 3vw, 5rem);
+  -webkit-margin-after: clamp(3rem, 1.94rem + 4.51vw, 6rem);
+          margin-block-end: clamp(3rem, 1.94rem + 4.51vw, 6rem);
   text-align: center;
 }
 .counter__socials {
